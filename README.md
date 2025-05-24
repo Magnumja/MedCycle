@@ -41,7 +41,11 @@ Principais entidades:
 2. Execute o projeto:
    ```bash
    python app.py
-   
+
+3. Para o login:
+   ```bash
+   login: medcycle
+   senha: 12345
 É necessário ter o Python 3.10+ instalado em sua máquina.
 
 ## 📁 Estrutura do Projeto
