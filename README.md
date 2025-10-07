@@ -4,6 +4,8 @@
 
 Sistema web para **gerenciamento do descarte de resíduos médicos**, promovendo práticas mais seguras em ambientes hospitalares e de saúde.
 
+Se quiser ver vídeo explicativo: https://drive.google.com/drive/folders/15x-EbvMDPlTjh-VoWIpOkoJ5-LBUT0k2
+
 ---
 
 ## 📌 Descrição
