@@ -62,15 +62,6 @@ DAC/
 └── README.md
 
 
-## 👨‍💻 Autores
-
-| Nome   | GitHub                                         |
-| ------ | ---------------------------------------------- |
-| Magnum | [@Magnumja](https://github.com/Magnumja)       |
-| Murilo | [@muLocatelli](https://github.com/muLocatelli) |
-| Bianca | [@BiaSabka](https://github.com/BiaSabka)       |
-| David  | [@davidleites](https://github.com/davidleites) |
-|  Mike  | [@MikeWeyller](https://github.com/MikeWeyller) |
 
 Desenvolvido com 💻 por estudantes comprometidos com a saúde e o meio ambiente.
 
